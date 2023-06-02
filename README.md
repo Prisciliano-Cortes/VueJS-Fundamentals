@@ -1,4 +1,4 @@
-# 03-fundamentals
+# 02-fundamentals
 
 ## Project setup
 ```
